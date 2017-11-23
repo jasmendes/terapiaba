@@ -5,9 +5,11 @@ Check-in check-out APP
 This mobile App is built in Python using the kivy framework for multiplatform compatibility.
 
 After installing your Python version , 
-https://www.python.org/downloads/windows/\n
-https://www.python.org/downloads/mac-osx/\n
-https://www.python.org/downloads/source/\n
+https://www.python.org/downloads/windows/
+
+https://www.python.org/downloads/mac-osx/
+
+https://www.python.org/downloads/source/
 
 download and run this script to install pip on your machine to facilitate dependencies instalation.
 https://bootstrap.pypa.io/get-pip.py
