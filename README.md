@@ -22,3 +22,11 @@ https://kivy.org/docs/installation/installation-linux.html
 Dependencies for Kivy on Windows:
 https://kivy.org/docs/installation/installation-windows.html
 
+
+
+if new at kivy :
+http://slides.com/baptistelagarde/kivy-python-for-android/fullscreen#/10
+
+http://inclem.net/pages/kivy-crash-course/
+
+https://github.com/inclement/kivycrashcourse
