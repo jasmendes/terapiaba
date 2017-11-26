@@ -170,6 +170,7 @@ class MyScreenManager(ScreenManager):
         self.manager.transition = SlideTransition(direction="left")
         self.root.current = 'login'
         self.root.get_screen('login').resetForm()
+<<<<<<< HEAD
     
 
 
@@ -180,6 +181,13 @@ class MyScreenManager(ScreenManager):
 #sm.switch_to(screen2, direction='left')
 # later
 #sm.switch_to(screen3, direction='right', duration=1.)
+=======
+        
+
+
+    
+
+>>>>>>> d3f3c7facbc3ecb3cda18b9356bb9cc4fb59bfb3
     
 
 
@@ -218,7 +226,10 @@ MyScreenManager:
     LoginScreen:
     Connected:
     
+<<<<<<< HEAD
     
+=======
+>>>>>>> d3f3c7facbc3ecb3cda18b9356bb9cc4fb59bfb3
 
 
 <Connected>:
@@ -292,6 +303,7 @@ MyScreenManager:
     name: 'home'
     BoxLayout:
         orientation: 'vertical'
+<<<<<<< HEAD
 
         Label:
             text: 'Home Page'
@@ -302,6 +314,11 @@ MyScreenManager:
 				halign: 'right'
 				font_size: 15
 				on_release: exit()
+=======
+        Label:
+            text: 'Home Page'
+            font_size: 30
+>>>>>>> d3f3c7facbc3ecb3cda18b9356bb9cc4fb59bfb3
         Image:
             source: 'natureza.jpg'
             allow_stretch: True
